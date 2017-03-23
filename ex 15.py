@@ -18,3 +18,5 @@ print txt_again.read()
 #and print again
 raw_input("Press enter to exit")
 #pause cmd, not exactly needed
+txt.close()
+txt_again.close()
